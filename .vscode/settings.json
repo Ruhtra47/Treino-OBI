@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "regex": "cpp"
+    }
+}
