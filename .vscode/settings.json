@@ -9,6 +9,18 @@
         "span": "cpp",
         "*.tcc": "cpp",
         "algorithm": "cpp",
-        "regex": "cpp"
-    }
+        "regex": "cpp",
+        "iostream": "cpp",
+        "valarray": "cpp",
+        "any": "cpp",
+        "coroutine": "cpp",
+        "random": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp"
+    },
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true
 }
