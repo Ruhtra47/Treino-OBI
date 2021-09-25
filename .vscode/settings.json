@@ -18,7 +18,8 @@
         "fstream": "cpp",
         "istream": "cpp",
         "ostream": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "compare": "cpp"
     },
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
